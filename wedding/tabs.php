@@ -2,7 +2,6 @@
 <head>
 	<link rel="stylesheet" href="css/jquery-ui.css" type="text/css" media="all" />
     <link rel="stylesheet" href="css/ui.theme.css" type="text/css" media="all" />
-    <script src="js/jquery.min.js"></script>
     <script src="js/jquery.min.js" type="text/javascript"></script>
     <script src="js/jquery-ui.min.js" type="text/javascript"></script>
     <script src="js/jquery.bgiframe-2.1.2.js" type="text/javascript"></script>
@@ -69,8 +68,9 @@
         </div>
         <div id="photogallery">
         	<br/>
-        	Coming soon...
-        	<br/>
+        	<a href="https://www.facebook.com/media/set/?set=a.10151402969204686.502627.780169685&type=1&l=cf31e5ff1a" target="_blank">Wedding Album</a>
+        	<br/><br/>
+        	<a href="https://www.facebook.com/media/set/?set=a.10151445667434686.504437.780169685&type=1&l=7a577f3bdd" target="_blank">Reception Album</a>
         </div>
     </div>
 </body>
